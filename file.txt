@@ -1,2 +1,3 @@
 cluster provisioning for k8s
 write pod file for k8s nodes
+you can use the command suggested in the error message
